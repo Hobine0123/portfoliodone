@@ -35,13 +35,10 @@ const HeroSection = () => {
                     .typeString`<span style="color:#FF77FF">Students</span>`
                     .pauseFor(1500)
                     .deleteAll()
-                    .typeString`<span style="color:#9E7BFF">Lecturer</span>`
+                    .typeString`<span style="color:#9E7BFF">Clown</span>`
                     .pauseFor(1500)
                     .deleteAll()
-                    .typeString`<span style="color:#893BFF">Front-End Developer</span>`
-                    .pauseFor(1500)
-                    .deleteAll()
-                    .start();
+                  
 
                 }}
               ></Typewritter>
